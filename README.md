@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi there, I'm Tanmay Diwakar  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
 </h1>
 
 <p align="center">
@@ -104,5 +104,9 @@
 
 ### 🌟 Let’s Grow Together!
 <p align="center">
-  🚀 Currently leveling up at <b>JSpiders</b> while building cool things on → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=22BB33&center=true&vCenter=true&width=420&lines=Let's+Connect+and+Grow+Together!" alt="Lets Grow Animation" />
+  <br>
+  ⭐️ Currently leveling up at <b>JSpiders</b> while building cool things on → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=tanmay1901&style=flat-square&color=blue" alt="Profile Views Counter" />
 </p>
