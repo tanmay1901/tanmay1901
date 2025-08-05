@@ -102,7 +102,6 @@
 
 ---
 
-### 🌟 Let’s Grow Together!
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=22BB33&center=true&vCenter=true&width=420&lines=Let's+Connect+and+Grow+Together!" alt="Lets Grow Animation" />
   <br>
