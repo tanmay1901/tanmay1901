@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Tanmay Diwakar</h1>
 
 <p align="center">
-  <strong>Python Full-Stack Developer</strong> & <strong>Data Analyst</strong> from India 🇮🇳<br>
+  <strong>Python Full-Stack Developer</strong> & <strong>Data Analyst</strong> from Rajasthan 🇮🇳<br>
   I specialize in <code>Data Cleaning</code>, <code>Visualization</code>, <code>Django</code>, and <code>Power BI</code>.<br>
   <b>Let's build smart solutions together!</b>
 </p>
