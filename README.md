@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi there, I'm Tanmay Diwakar  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
 </h1>
 
 <p align="center">
@@ -20,6 +20,7 @@
 - 🔎 Skilled in Data Cleaning, Analysis & Visualization  
 - 📊 Experienced with Power BI dashboards & business reporting  
 - 🐍 Python Programmer focused on data pipelines & automation  
+- 🎓 Currently pursuing **Python with Data Analyst** course at **JSpiders, Bangalore**  
 - 🧠 Quick learner, detail-oriented, and always improving  
 
 ---
@@ -35,6 +36,7 @@
 - 📊 Advanced Power BI automation and DAX expressions  
 - 🐘 PostgreSQL for large-scale data operations  
 - 🧹 Pythonic ways to clean & preprocess real-world data  
+- 👨‍🏫 Strengthening core concepts through **JSpiders Data Analyst course**  
 - 📈 Data storytelling and stakeholder presentation techniques  
 
 ---
@@ -98,23 +100,24 @@
 <p align="center">
   <a href="mailto:tanmaydiwakar0710@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tanmay-diwakar-1b68b41a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+918949297146"><img src="https://img.shields.io/badge/Call-89492+97146-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="tel:+918949297146"><img src="https://img.shields.io/badge/Call-8949297146-green?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="https://wa.me/918949297146"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🤓 Fun Fact
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0MTB1azYzZ25hY2dzbnhmZ2RxZmc1NmR2dGNsZnZtbDI3dmdodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I6GkHScxNfquy/giphy.gif" width="300" />
   <br>
-  I treat every messy dataset like a puzzle and Power BI like my canvas 🎨
+  Every dataset hides a story—my job is to uncover it! 📊📚
 </p>
 
 ---
 
 ### 🌟 Let’s Grow Together!
 <p align="center">
-  ⭐️ Star my work on GitHub → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
-  <br><br>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/3o6nV2v9PivUpppHTK/giphy.gif" width="250" />
+  <br>
+  ⭐️ Currently leveling up at <b>JSpiders</b> while building cool things on → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
 </p>
