@@ -1,12 +1,8 @@
 <h1 align="center">
   👋 Hi there, I'm Tanmay Diwakar  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=42A5F5&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Programmer;Power+BI+Specialist;Turning+Data+into+Decisions" alt="Typing animation" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="data working gif" />
-</p>
 
 <p align="center">
   📍 Based in Rajasthan, India 🇮🇳<br>
@@ -106,18 +102,7 @@
 
 ---
 
-### 🤓 Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0MTB1azYzZ25hY2dzbnhmZ2RxZmc1NmR2dGNsZnZtbDI3dmdodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I6GkHScxNfquy/giphy.gif" width="300" />
-  <br>
-  Every dataset hides a story—my job is to uncover it! 📊📚
-</p>
-
----
-
 ### 🌟 Let’s Grow Together!
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6nV2v9PivUpppHTK/giphy.gif" width="250" />
-  <br>
-  ⭐️ Currently leveling up at <b>JSpiders</b> while building cool things on → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
+  🚀 Currently leveling up at <b>JSpiders</b> while building cool things on → <a href="https://github.com/tanmay1901" target="_blank">github.com/tanmay1901</a>  
 </p>
