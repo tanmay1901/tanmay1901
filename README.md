@@ -13,6 +13,8 @@
 ---
 
 ### 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F58A42&center=false&vCenter=true&width=300&lines=About+Me" alt="About Animation" />
+
 - 🔎 Skilled in Data Cleaning, Analysis & Visualization  
 - 📊 Experienced with Power BI dashboards & business reporting  
 - 🐍 Python Programmer focused on data pipelines & automation  
@@ -22,6 +24,8 @@
 ---
 
 ### 🚀 Current Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F58A42&center=false&vCenter=true&width=300&lines=Current+Projects" alt="Projects Animation" />
+
 - 📈 **Retail Store Sales Dashboard** – Advanced filtering, forecasting, KPIs  
 - 🛒 **Blinkit Sales Report** – Sales & customer behavior insights via Power BI  
 - ☁️ **AWS-Based Deployment for Scalable Analytics** – EC2, RDS, Lambda  
@@ -29,6 +33,8 @@
 ---
 
 ### 📚 Currently Improving
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F58A42&center=false&vCenter=true&width=350&lines=Currently+Improving" alt="Currently Improving Animation" />
+
 - 📊 Advanced Power BI automation and DAX expressions  
 - 🐘 PostgreSQL for large-scale data operations  
 - 🧹 Pythonic ways to clean & preprocess real-world data  
@@ -52,43 +58,14 @@
 
 ---
 
-### 📌 Highlighted Projects
-
-#### 📊 Blinkit Sales Analysis (Power BI)
-- Cleaned & transformed raw data
-- Built interactive charts (bar, line, scatter)
-- Added KPIs like avg. sales, outlet growth & product trends
-
-#### 🛍️ Retail Store Dashboard (Power BI + Kaggle)
-- Category-wise sales, discounts, payment types
-- Forecasted future sales with trendline
-- Dynamic year filtering for better analysis
-
-#### ☁️ Scalable Analytics Setup (AWS)
-- EC2, RDS, Auto Scaling + CloudWatch  
-- Real-time deployment setup for dynamic datasets
-
----
-
-### 🏅 Certifications
-- 📘 **Data Analysis Certificate** – Microsoft & LinkedIn (2025)  
-- 📊 **Data Visualization Program** – TATA Forage (2025)  
-- 🌐 **Digital Marketing** – Udemy (2023)  
-
----
-
-### 💬 Ask Me About
-- 📈 Power BI & dashboard best practices  
-- 🧹 Cleaning large, messy datasets in Python  
-- 📊 Visualizing insights with Matplotlib & Seaborn  
-- ☁️ AWS for analytics deployment & automation  
-
----
-
-### 🤝 Let’s Collaborate On
-- Real-world data analysis challenges  
-- Visual storytelling through dashboards  
-- Python tools that automate insights  
+### 📊 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay1901&show_icons=true&theme=radical&hide_border=true" alt="Tanmay's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay1901&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay1901&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
